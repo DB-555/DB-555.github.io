@@ -1,0 +1,39 @@
+---
+title: "Ditipriya Bhar"
+image: "Ditipriya.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/dr-ditipriya-bhar/"
+  - label: GitHub
+    url: "https://github.com/DB-555/DB-555.github.io"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Master of Science student focusing on clinical research, pharmacoepidemiology, and chronic disease epidemiology. Enthusiastic public health professional with experience as a physician, medical educator, and researcher working in low-and middle-income settings and experience in designing epidemiologic studies, systematic review and meta-analysis, data analysis, working with diverse teams, and medical writing.
+
+## Education
+
+**Master of Science (ScM) in Epidemiology** | Aug 2023-May 2025 |
+Johns Hopkins Bloomberg School of Public Health, Baltimore, USA
+
+**Doctor of Medicine in Community Medicine (MD)** | Aug 2013 - Aug 2016 |
+North Bengal Medical College, India
+
+**Bachelor of Medicine and Surgery (M.B.B.S)** | Aug 2003 - Feb 2008 |
+North Bengal Medical College, India
+
+
+## Experience
+
+**Johns Hopkins Bloomberg School of Public Health** | Graduate Research Assistant | June 2024 - Present
+
+**Santiniketan Medical College** | Assistant Professor in Community Medicine | Apr 2022 – May 2023
+
+**ICMR-National Institute of Epidemiology (ICMR-NIE)** | Research Consultant | Sep 2019 – Dec 2020
+
+**AIIMS Patna** | Senior Resident, Community & Family Medicine | Sep 2016 – Sep 2019
+
+
